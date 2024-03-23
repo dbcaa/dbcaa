@@ -1,17 +1,17 @@
 
 
-<img width="110" height="110" align="left" style="float: left; margin: 0 10px 0 0;" alt="NoBody Image" src="https://images.uni-bot.xyz/RejectModders/rejectmodders.gif">  
+<img width="110" height="110" align="left" style="float: left; margin: 0 10px 0 0;" alt="NoBody Image" src="https://images.uni-bot.xyz/Joe/IMG_7873.jpeg">  
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=41&pause=1000&color=5865f2&width=450&height=70&lines=Hey!+I'm+Reject!+;Welcome+To+My+GitHub)](https://git.io/typing-svg) 
-[![guns.lol](https://img.shields.io/badge/guns.lol-946ca4?style=plastic&logoColor=000000)](https://guns.lol/RejectModders)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=41&pause=1000&color=5865f2&width=450&height=70&lines=Hey!+I'm+Joe!+;Join+.gg/unibot)](https://git.io/typing-svg) 
+[![guns.lol](https://img.shields.io/badge/guns.lol-946ca4?style=plastic&logoColor=000000)](https://guns.lol/dbca.)
 [![Discord Server](https://img.shields.io/badge/Discord%20Server-7289da?style=plastic&logoColor=000000)](https://discord.gg/nEyYXTnpEw)
 [![UniBot](https://img.shields.io/badge/UniBot-5865f2?style=plastic&logo=dependabot&logoColor=000000&color=5865f2)](https://dsc.gg/uni-bot)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RejectModderss&label=Profile%20views&color=0e75b6&style=plastic" alt="mid-rip" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dbcaa&label=Profile%20views&color=0e75b6&style=plastic" alt="mid-rip" /> </p>
 
 <div aling="right">
 <a href="https://discord.com/users/418941954252996609" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://api.lanyard.rest/v1/users/379395029086633985?bg=1f1f1f&borderRadius=5px">
+	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/379395029086633985?bg=1f1f1f&borderRadius=5px">
 </a>
 
 </a>
