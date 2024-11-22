@@ -1,6 +1,6 @@
 
 
-<img width="110" height="110" align="left" style="float: left; margin: 0 10px 0 0;" alt="NoBody Image" src="https://images.uni-bot.xyz/Joe/IMG_7873.jpeg">  
+<img width="110" height="110" align="left" style="float: left; margin: 0 10px 0 0;" alt="NoBody Image" src="https://images.uni-bot.xyz/staff_icons/web_developers/joe_.gif">  
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=41&pause=1000&color=5865f2&width=450&height=70&lines=Hey!+I'm+Joe!+;Join+.gg/soon.tm)](https://git.io/typing-svg) 
 [![guns.lol](https://img.shields.io/badge/guns.lol-946ca4?style=plastic&logoColor=000000)](https://guns.lol/dbca.)
