@@ -24,7 +24,7 @@
 
 - 👨‍💻 &nbsp; Web Developer of Distools (RIP UniBot).
 - 💬 &nbsp; I Love developing `Discords Bots` and `Websites`.
-- 🌱 &nbsp; I’m currently learning `HTML and JS`.
+- 🌱 &nbsp; I’m currently learning `HTML,JS and PHP sadly 😭`.
 - 🎈 Discord Bot I help with: https://uni-bot.xyz
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
