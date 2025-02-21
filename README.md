@@ -13,8 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=dbcaa&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
   <div style="margin: 20px 0;">
-    <a href="https://discord.com/users/418941954252996609" target="_blank">
-      <img width="50%" src="https://lanyard.cnrad.dev/api/418941954252996609?bg=1f1f1f&borderRadius=5px" alt="Discord Status">
+    <a href="https://discord.com/users/379395029086633985" target="_blank">
+      <img width="50%" src="https://lanyard.cnrad.dev/api/379395029086633985?bg=1f1f1f&borderRadius=5px" alt="Discord Status">
     </a>
     <br><br>
     <a href="https://wakatime.com/@dbca" target="_blank">
