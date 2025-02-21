@@ -10,7 +10,7 @@
   [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://disutils.com)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/disutils)
   
-  <img src="https://komarev.com/ghpvc/?username=RejectModderss&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dbcaa&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
   <div style="margin: 20px 0;">
     <a href="https://discord.com/users/379395029086633985" target="_blank">
