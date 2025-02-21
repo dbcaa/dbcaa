@@ -89,8 +89,8 @@ class Developer:
         )
 
 
-reject = Developer()
-print(reject)
+joe = Developer()
+print(joe)
 ```
 
 ## 🛠️ Tech Stack & Tools
