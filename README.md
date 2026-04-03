@@ -25,7 +25,7 @@
 
 > Just a guy from Texas who enjoys building things, breaking them, then fixing them properly.
 
-I’m **Joe**, a **system administrator & Discord-focused developer**.  
+I’m **Tyler!**, a **system administrator & Discord-focused developer**.  
 Most of my experience comes from running real infrastructure, managing production bots, and leading community-driven projects.
 
 I care a lot about:
@@ -67,7 +67,7 @@ I’ve worked on projects that reached **thousands of servers** and **hundreds o
 
 ## 🧠 About Me (in code form)
 
-    class Joe:
+    class Tyler:
         def __init__(self):
             self.role = ["System Administrator", "Discord Developer"]
             self.location = "Texas"
@@ -78,7 +78,7 @@ I’ve worked on projects that reached **thousands of servers** and **hundreds o
         def daily_routine(self):
             return ["Break stuff", "Fix it properly", "Learn", "Repeat"]
 
-    me = Joe()
+    me = Tyler()
     print(me.daily_routine())
 
 ---
@@ -125,7 +125,7 @@ I’ve worked on projects that reached **thousands of servers** and **hundreds o
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joe@disutils.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tytywlol@proton.me)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/28RuT8WsKT)
 
 </div>
